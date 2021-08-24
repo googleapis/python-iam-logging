@@ -9,7 +9,7 @@ This package contains generated Python types for ``google.iam.v1.logging``.
 - `Product Documentation`_
 
 .. |beta| image:: https://img.shields.io/badge/support-beta-orange.svg
-   :target: https://github.com/googleapis/google-cloud-python/blob/master/README.rst#beta-support
+   :target: https://github.com/googleapis/google-cloud-python/blob/main/README.rst#beta-support
 .. |pypi| image:: https://img.shields.io/pypi/v/google-cloud-iam-logging.svg
    :target: https://pypi.org/project/google-cloud-iam-logging/
 .. |versions| image:: https://img.shields.io/pypi/pyversions/google-cloud-iam-logging.svg
