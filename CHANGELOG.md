@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.2.1](https://github.com/googleapis/python-iam-logging/compare/v0.2.0...v0.2.1) (2022-04-01)
+
+
+### Bug Fixes
+
+* **deps:** require google-api-core >= 1.31.5, >= 2.3.2 on v0 release ([#73](https://github.com/googleapis/python-iam-logging/issues/73)) ([a035d39](https://github.com/googleapis/python-iam-logging/commit/a035d395ea4d48727c2ae940a89a2c77d0b5b564))
+
 ## [0.2.0](https://www.github.com/googleapis/python-iam-logging/compare/v0.1.3...v0.2.0) (2021-10-13)
 
 
